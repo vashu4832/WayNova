@@ -6,3 +6,4 @@ python-dotenv
 amadeus
 requests
 langchain-community
+langchain-openai
