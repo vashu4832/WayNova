@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+langchain
+langchain-google-genai
+python-dotenv
+amadeus
+requests
+langchain-community
