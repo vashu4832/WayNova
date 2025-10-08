@@ -17,7 +17,7 @@ from langchain_core.messages import AIMessage, HumanMessage
 # -------------------------------------------------------------------
 # 🔹 1. FIXED DATE (today = 21-Sept-2025)
 # -------------------------------------------------------------------
-TODAY_DATE = datetime(2025, 9, 21)
+TODAY_DATE = datetime(2025, 10, 9)
 
 # -------------------------------------------------------------------
 # 🔹 2. LOAD ENVIRONMENT VARIABLES
